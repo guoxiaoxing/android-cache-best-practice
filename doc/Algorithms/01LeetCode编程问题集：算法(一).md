@@ -1,4 +1,4 @@
-# LeetCode编程问题集：算法
+# LeetCode编程问题集：算法(一)
 
 ## 1 Two Sum
 
