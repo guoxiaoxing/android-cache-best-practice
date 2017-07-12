@@ -9,10 +9,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/cache" />
-            <option value="$PROJECT_DIR$/demo" />
+            <option value="$PROJECT_DIR$/algorithms" />
+            <option value="$PROJECT_DIR$/database" />
           </set>
         </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
